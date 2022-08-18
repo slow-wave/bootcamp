@@ -27,14 +27,14 @@ youtube
 
 ## (3) 역할 분담 & 간략 일정 계획
 
-일정 계획
+- 일정 계획
 
-2022/8/16 
-- 스크래핑하기
+    - 2022/8/16 
+        - 스크래핑하기
 
-2022/8/17, 18 
-- create table & insert
-- 분석
+    - 2022/8/17, 18 
+        - create table & insert
+        - 분석
 
 ## (4) 산출물
 - [scraping.ipynb](https://github.com/slow-wave/bootcamp/blob/main/scraping.ipynb)
