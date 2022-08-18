@@ -74,6 +74,7 @@ youtuber table
 - ERD tool : [https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ERDiagram&width=11&height=8.5&unit=inch](https://online.visual-paradigm.com/app/diagrams/#diagram:proj=0&type=ERDiagram&width=11&height=8.5&unit=inch)
 - ERD 예시 : [https://gitmind.com/kr/erd-examples.html](https://gitmind.com/kr/erd-examples.html)
 
+- 최종 ERD
 ![image](erd.png)
 
 
