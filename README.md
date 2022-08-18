@@ -37,12 +37,11 @@ youtube
 - 분석
 
 ## (4) 산출물
-
-- scraping.ipynb
+- [scraping.ipynb](https://github.com/slow-wave/bootcamp/blob/main/scraping.ipynb)
     - scraping하는 코드 → csv, dataframe (pandas)
-- db_insert.ipynb
+- [db_insert.ipynb](https://github.com/slow-wave/bootcamp_scraping-project/blob/main/db_insert.ipynb)
     - (pymysql) DB create & insert하는 코드
-- analysis.sql
+- [analysis.sql](https://github.com/slow-wave/bootcamp_scraping-project/blob/main/analysis.sql)
     - 분석하는 sql query
 - [final]youtuber_df.csv
     - youtuber table에 insert할 data
