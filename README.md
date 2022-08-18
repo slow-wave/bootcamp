@@ -1,3 +1,5 @@
+
+
 # A. 기획
 
 ## (1) 수집할 데이터 정하기
@@ -19,13 +21,8 @@ youtube
 - 분석 주제
 
 1) 정해진 기간 내에 많이 올라간 영상 주제
-
 2) 애플 vs. 삼성 조회수가 어떻게 되는지 (누가 더 많은지?)
-
-- 조회수 평균
-
 3) 얼마나 많은 유튜버들이 컨텐츠를 만들었는지?
-
 4) 한 명의 유투버가 제품마다 몇 개의 영상을 올렸는지?
 
 ## (3) 역할 분담 & 간략 일정 계획
@@ -50,15 +47,22 @@ youtube
 ## (1) 수집할 column 정의하기
 
 youtuber table
+- video id : video id
+- title : 유튜브 영상의 제목 
+- view : 조회수
+- contents : 유튜브 영상의 소개글
+- create_date : date
+- search_query : 검색어
+- video_url : 영상의 url
+- youtuber id : youtuber id
 
-- 유튜버 이름
-- 유뷰버 구독자 수
 
 video_info table
+- youtuber id : youtuber id
+- youtuber_name : youtuber 이름
+- channel_url : 채널의 url
 
-- title
-- 조회수
-- 유튜버
+
 
 ## (2) 테이블 설계하기
 
