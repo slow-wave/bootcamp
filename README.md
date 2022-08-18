@@ -53,7 +53,7 @@ youtube
 
 ## (1) 수집할 column 정의하기
 
-youtuber table
+video_info table
 - video id : video id
 - title : 유튜브 영상의 제목 
 - view : 조회수
@@ -63,8 +63,7 @@ youtuber table
 - video_url : 영상의 url
 - youtuber id : youtuber id
 
-
-video_info table
+youtuber table
 - youtuber id : youtuber id
 - youtuber_name : youtuber 이름
 - channel_url : 채널의 url
