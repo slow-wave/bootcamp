@@ -41,6 +41,10 @@ youtube
     - (pymysql) DB create & insert하는 코드
 - analysis.sql
     - 분석하는 sql query
+- [final]youtuber_df.csv
+    - youtuber table에 insert할 data
+- [final]video_info_df.csv
+    - video_info table에 insert할 data
 
 # B. 데이터 저장
 
